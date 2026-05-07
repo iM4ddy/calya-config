@@ -1,3 +1,3 @@
 {
-  "minimumVersion": "1.0.3"
+  "minimumVersion": "1.0.4"
 }
